@@ -1,6 +1,0 @@
-import csv
-iris = pd.DataFrame({
-    "cust_id": ["C1", "C2", "C3", "C4", "C5"],
-    "item_bought": [10,15,20,35,4],
-    "city": ["Bandung", "Jakarta", "Bogor", "Tangerang", "Bali"]
-    })
