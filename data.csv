@@ -1,0 +1,7 @@
+"name", "weight", "height", "birt_year", "gender", "city"
+"Anna", 45.2,155,2000,"female", New York"
+"Dane",50.5,160,1997,"male","Chicago"
+"David",62.1,162,1996,"male","Austin"
+"Kevin",64.,170,1987,"male","New York"
+"Joe",59.,167,1998,"male",
+"Rose",,159,2003,"female","New York"
